@@ -23,8 +23,7 @@ La aplicacion debe contar con los siguientes puntos
 `Conectar la aplicacion con una base de datos en Ionic` 
 - La aplicación debe consumir los datos desde una base de datos de Ionic, todos los artículos deben ser traídos de la base de datos, los cuales traen el ID del elemento, sus reviews, categoría, precio, nombre de articulo así como el src de la imagen (almacenada en CloudStorage)
 - Los artículos deben estar categorizados, ejemplo si tienes una tienda en linea de tecnología que los puedas categorizar en celulares, computadoras, audífonos, etc. 
-- Los artículos deben estar categorizados, ejemplo si tienes una tienda en linea de tecnología que los puedas categorizar en celulares, computadoras, audífonos, etc.  
-- Los artículos deben estar categorizados, ejemplo si tienes una tienda en linea de tecnología que los puedas categorizar en celulares, computadoras, audífonos, etc. 
+-Los artículos deben tener imagen que es extraída de CloudStorage de Firebase
 
 
 ## Vista Administrador
