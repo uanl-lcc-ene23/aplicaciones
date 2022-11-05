@@ -23,7 +23,8 @@ La aplicacion debe contar con los siguientes puntos
 `Conectar la aplicacion con una base de datos en Ionic` 
 - La aplicación debe consumir los datos desde una base de datos de Ionic, todos los artículos deben ser traídos de la base de datos, los cuales traen el ID del elemento, sus reviews, categoría, precio, nombre de articulo así como el src de la imagen (almacenada en CloudStorage)
 - Los artículos deben estar categorizados, ejemplo si tienes una tienda en linea de tecnología que los puedas categorizar en celulares, computadoras, audífonos, etc. 
--Los artículos deben tener imagen que es extraída de CloudStorage de Firebase
+- Los artículos deben tener imagen que es extraída de CloudStorage de Firebase
+- Agregar flujo para mostrar 
 
 
 ## Vista Administrador
@@ -53,5 +54,19 @@ Subir código a tu repositorio de Github junto con el ejecutable .apk (Android) 
 ## Ayuda
 
 Contacta a tu maestra aracely.des@uanl.edu.mx para dudas. Enviar mensaje por Teams con dudas o aclaraciones compartiendo tu matrícula y grupo.
+
+
+
+## Nota Profesor: 
+Profe Agregar Ponderación de Puntos a evaluar
+
+##Evidencia PIA
+- APK
+- Acceso a Camara
+- Acceso a Fotos
+- Flujo de Elemento en Carrito (NO tiene formularios de Pago / Direccion - solamente ver que elementos se agregaron) --PENDIENTE
+- Categoria a Articulos
+- Pagina de inicio No Filtra Articulos
+
 
 **Bold** and _Italic_ and `Code` text
